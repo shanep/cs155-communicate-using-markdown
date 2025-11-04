@@ -27,7 +27,6 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 - **What you'll learn**: Use Markdown to add lists, images, and links in a comment or text file.
 - **What you'll build**: We'll update a plain text file and add Markdown formatting, and you can use this file to start your own GitHub Pages site.
 - **Prerequisites**: In this course you will work with pull requests as well as edit files. If these things aren't familiar to you, we recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course, first!
-- **How long**: This course takes less than one hour to complete.
 
 In this course, you will:
 
